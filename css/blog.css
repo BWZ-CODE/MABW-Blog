@@ -1,0 +1,16 @@
+*{
+    background: rgb(148, 170, 204);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+input{
+    border-radius: 5px;
+}
+
+
+.boton:hover{
+    cursor: pointer;
+    background-color:rgb(129, 158, 202) ;
+    
+}
+
