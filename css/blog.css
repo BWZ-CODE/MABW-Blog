@@ -14,3 +14,20 @@ input{
     
 }
 
+.opps{
+    
+    display: flex;
+    height: 90px;
+    align-items: center;
+    width: 400px;
+    gap: 200px;
+}
+
+
+.list{
+    width: 15px;
+    height: 15px;
+    color: blueviolet;  
+    
+    
+}
